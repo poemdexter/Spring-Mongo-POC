@@ -1,4 +1,4 @@
-package main.java.com.poemdexter;
+package com.poemdexter;
 
 import org.springframework.data.annotation.Id;
 
